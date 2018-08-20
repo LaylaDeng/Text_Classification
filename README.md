@@ -3,7 +3,7 @@
 
 数据集下载地址：http://www.pkbigdata.com/common/cmpt/“达观杯”文本智能处理挑战赛_赛体与数据.html
 
-01_try 成绩： 0.777996
+``01_try 成绩： 0.777996``
 
 
 
