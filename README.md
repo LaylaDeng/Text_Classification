@@ -17,5 +17,5 @@ binary-classification
 <================================================>
 
 
-<font color=#0000FF size=3 face="黑体"> ``01_try 成绩： 0.777996`` &nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;使用svm.linearSVC</font>  
-<font color=#0000FF size=3 face="黑体">``02_try 成绩： 0.71``  &nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;使用SGDClassifier</font>
+<font color=#0000FF> ``01_try 成绩： 0.777996`` &nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;使用svm.linearSVC</font>  
+<font color=#0000FF>``02_try 成绩： 0.71``  &nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;使用SGDClassifier</font>
