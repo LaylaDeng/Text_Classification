@@ -17,5 +17,5 @@ binary-classification
 <================================================>
 
 
-``01_try 成绩： 0.777996``&nbsp&nbsp:&nbsp&nbsp使用svm.linearSVC
-``02_try 成绩： 0.71``&nbsp&nbsp:&nbsp&nbsp使用SGDClassifier
+``01_try 成绩： 0.777996``  :  使用svm.linearSVC
+``02_try 成绩： 0.71``  :  使用SGDClassifier
